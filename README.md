@@ -4,10 +4,8 @@ The UAE Brokers Scraper is a Python program designed to scrape comprehensive inf
 ## Features
 1. **Broker Information Extraction:**
 - Scrape and collect detailed information about brokers in the UAE.
-
 2. **Customizable Search Criteria:**
 - Adapt the scraper to search for specific information based on your requirements.
-
 3. **Data Export to Excel:**
 - Save the collected data to an Excel sheet (broker_data.xlsx) for convenient analysis and sharing.
 
