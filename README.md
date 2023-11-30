@@ -17,6 +17,6 @@ Customize the Excel sheet format or storage mechanism according to your preferen
 
 ## Dependencies
 - Python 3.7
-- Requests library
+- Time library
 - Selenium library
-- Openpyxl library for Excel support
+- Pandas library for Excel support
