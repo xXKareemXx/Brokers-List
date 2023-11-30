@@ -10,9 +10,9 @@ Adapt the scraper to search for specific information based on your requirements.
 Save the collected data to an Excel sheet (broker_data.xlsx) for convenient analysis and sharing.
 
 ## Customization
-1. **Search Criteria:**
+1. **Search Criteria:**<br>
 Adjust the search criteria in the scraper.py file to target specific information on the broker websites.
-2. **Output Format:**
+2. **Output Format:**<br>
 Customize the Excel sheet format or storage mechanism according to your preferences.
 
 ## Dependencies
